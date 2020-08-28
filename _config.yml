@@ -20,16 +20,16 @@ contact_urls:
   github:
     url: "https://github.com/chuhaojin/"
     label: "GitHub"
-    icon: "github-square"
+    icon: "fab fa-github"
   email:
     url: "mailto:jinchuhao@ruc.edu.cn"
     label: "jinchuhao@ruc.edu.cn"
     value: "jinchuhao@ruc.edu.cn"
-    icon: "envelope-square"
+    icon: "fab fa-envelope"
   zhihu:
     url: "https://www.zhihu.com/people/vortex-jch"
-    label: "Zhihu: vortex"
-    icon: "quora"
+    label: "vortex"
+    icon: "fab fa-zhihu"
 
 # chuhao build settings
 paginate: 20
