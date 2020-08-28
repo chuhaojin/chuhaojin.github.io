@@ -7,7 +7,7 @@ $checklist-screenshot-image-path: '/assets/img/blog/atomic-squirrel/checklist-sc
 .bg-checklist {
   @include gray-overlay-image(0.6, $checklist-screenshot-image-path, 0, 0);
   width: 432px;
-  height: 691px;
+  height: 991px;
   max-width: 100%;
 }
 
