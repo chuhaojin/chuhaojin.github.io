@@ -25,7 +25,7 @@ contact_urls:
     url: "mailto:jinchuhao@ruc.edu.cn"
     label: "jinchuhao@ruc.edu.cn"
     value: "jinchuhao@ruc.edu.cn"
-    icon: "fab fa-envelope"
+    icon: "fas fa-envelope"
   zhihu:
     url: "https://www.zhihu.com/people/vortex-jch"
     label: "vortex"
