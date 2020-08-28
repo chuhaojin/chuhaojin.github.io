@@ -28,8 +28,8 @@ contact_urls:
     icon: "envelope-square"
   zhihu:
     url: "https://www.zhihu.com/people/vortex-jch"
-    label: "vortex"
-    icon: "zhihu-square"
+    label: "Zhihu: vortex"
+    icon: "quora-square"
 
 # chuhao build settings
 paginate: 20
