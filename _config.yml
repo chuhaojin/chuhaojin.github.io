@@ -16,7 +16,7 @@ contact_urls:
   linkedin:
     url: "https://www.linkedin.com/in/chuhao-jin-995a97181/"
     label: "LinkedIn"
-    icon: "linkedin-square"
+    icon: "fab fa-linkedin"
   github:
     url: "https://github.com/chuhaojin/"
     label: "GitHub"
