@@ -23,12 +23,12 @@ contact_urls:
     icon: "github-square"
   email:
     url: "jinchuhao@ruc.edu.cn"
-    label: "jinchuhao222 AT ruc.eud.cn"
+    label: "jinchuhao AT ruc.eud.cn"
     value: "jinchuhao@ruc.edu.cn"
     icon: "envelope-square"
 
 # chuhao build settings
-paginate: 10
+paginate: 20
 paginate_path: "/writing/page:num"
 permalink: "/writing/:year/:month/:day/:title/"
 sass:
