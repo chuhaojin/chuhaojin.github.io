@@ -23,7 +23,7 @@ contact_urls:
     icon: "github-square"
   email:
     url: "mailto:jinchuhao@ruc.edu.cn"
-    label: "Email"
+    label: "jinchuhao@ruc.edu.cn"
     value: "jinchuhao@ruc.edu.cn"
     icon: "envelope-square"
 
