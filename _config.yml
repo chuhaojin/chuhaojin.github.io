@@ -26,10 +26,6 @@ contact_urls:
     label: "jinchuhao AT ruc.eud.cn"
     value: "jinchuhao@ruc.edu.cn"
     icon: "envelope-square"
-  zhihu:
-  url: "https://www.zhihu.com/people/vortex-jch"
-  label: "zhihu"
-  icon: "zhihu-square"
 
 # chuhao build settings
 paginate: 10
