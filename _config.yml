@@ -1,5 +1,5 @@
 # Website settings
-url: "https://www.ybrikman.com"
+url: "https://chuhaojin.github.io/"
 
 # Internal nav
 nav:
@@ -15,16 +15,9 @@ nav:
     rss: "/feed.xml"
 
 # Bio settings
-name: "Yevgeniy Brikman"
-description: "The home page of Yevgeniy (Jim) Brikman, co-founder of Gruntwork, author of &quot;Hello, Startup&quot; and &quot;Terraform: Up & Running&quot;, and software engineer at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial."
+name: "Chuhao Jin"
+description: "The home page of Chuhao Jin."
 thumbnail_path: "profile-photos/yevgeniy-brikman-medium.jpg"
-bitcoin_address: "1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66"
-hello_startup_url: "https://www.hello-startup.net/"
-website_repo_url: "https://github.com/brikis98/yevgeniy-brikman-homepage"
-atomic_squirrel_url: "https://www.atomic-squirrel.net/"
-gruntwork_url: "https://www.gruntwork.io/"
-terraform_up_and_running_url: "https://www.terraformupandrunning.com/"
-terraform_up_and_running_code_url: "https://github.com/brikis98/terraform-up-and-running-code"
 
 # URLs
 contact_urls:
