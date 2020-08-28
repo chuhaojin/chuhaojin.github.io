@@ -1,17 +1,5 @@
 # Chuhao Jin's Home Page
 
-
-## Quick start
-
-1. Use Git to clone this repo.
-1. Make sure you have [Jekyll](http://jekyllrb.com/docs/installation/) installed.
-1. Just the first time: `bundle install`.
-1. To build the site and serve it: `bundle exec jekyll serve`.
-1. To test: `http://localhost:4000`.
-
-See the [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
-documentation for more info.
-
 ## License
 
 This code is released under the MIT License. See LICENSE.txt.
