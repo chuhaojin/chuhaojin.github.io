@@ -16,7 +16,7 @@ contact_urls:
   linkedin:
     url: "https://www.linkedin.com/in/chuhao-jin-995a97181/"
     label: "LinkedIn"
-    icon: "fab fa-linkedin"
+    icon: "linkedin-square"
   github:
     url: "https://github.com/chuhaojin/"
     label: "GitHub"
@@ -29,7 +29,7 @@ contact_urls:
   zhihu:
     url: "https://www.zhihu.com/people/vortex-jch"
     label: "Zhihu: vortex"
-    icon: "zhihu"
+    icon: "quora"
 
 # chuhao build settings
 paginate: 20
