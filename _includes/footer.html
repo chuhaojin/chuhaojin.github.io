@@ -1,3 +1,4 @@
+<script src="https://kit.fontawesome.com/7ee205cae7.js" crossorigin="anonymous"></script>
 <footer class="sticky-footer border-top border-light-gray gray h6">
   <div class="sm-col px2">
     &copy; {{ site.time | date: "%Y" }} {{ site.name }}.    
@@ -6,7 +7,7 @@
     {% for external_url_hash in site.contact_urls %}
       {% assign external_url = external_url_hash[1] %}
       <a href="{{ external_url.url }}" target="_blank" class="gray hint--top" data-hint="{{ external_url.label }}">
-        <i class="fa fa-fw fa-lg fa-{{ external_url.icon }}"></i>
+        <i class="{{ external_url.icon }} fa-fw fa-lg"></i>
       </a>
     {% endfor %}
   </div>
