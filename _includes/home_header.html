@@ -7,9 +7,12 @@
   <h2 class="page-description body-font gray mt0 h3 regular">
     RUC GSAI/an NLPer.
   </h2>
-  {% for external_url_hash in site.contact_urls %}
+</div>
+<div class="center">
+{% for external_url_hash in site.contact_urls %}
     {% assign external_url = external_url_hash[1] %}
-    <a href="{{ external_url.url }}" target="_blank" class="col dark-gray width-125">
+    <a href="{{ external_url.url }}" target="_blank">
       <i class="{{ external_url.icon }} fa-fw fa-2x valign-middle"></i>
   {% endfor %}
-</div>
+  </div>
+  
