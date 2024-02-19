@@ -22,7 +22,7 @@ Chuhao Jin is currently a first-year PhD student from Gaoling School of Artifici
 
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 One paper are accept by EMNLP 2023!
+- *2023.09*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2023!
 - *2023.06*: &nbsp;🎉🎉 I obtain my Master's degree from RUC!
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
