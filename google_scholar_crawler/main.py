@@ -1,10 +1,15 @@
+
+import os
+os.environ["http_proxy"]="http://127.0.0.1:7890"
+os.environ["https_proxy"]="http://127.0.0.1:7890"
+
 from scholarly import scholarly
 import jsonpickle
 import json
 from datetime import datetime
-import os
 
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+
+author: dict = scholarly.search_author_id("qJmotIoAAAAJ")
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
 author['updated'] = str(datetime.now())
