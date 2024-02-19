@@ -27,11 +27,11 @@ Chuhao Jin is currently a first-year PhD student from Gaoling School of Artifici
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # Pre-Print
-[Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots](https://arxiv.org/abs/2306.05716), \*Jiange Yang, \*Wenhui Tan, **\*Chuhao Jin**, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang
+- [Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots](https://arxiv.org/abs/2306.05716), \*Jiange Yang, \*Wenhui Tan, **\*Chuhao Jin**, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang
 
-[AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation](https://arxiv.org/abs/2305.18898), **\*Chuhao Jin**, \*Wenhui Tan, \*Jiange Yang, Bei Liu, Ruihua Song, Limin Wang, Jianlong Fu
+- [AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation](https://arxiv.org/abs/2305.18898), **\*Chuhao Jin**, \*Wenhui Tan, \*Jiange Yang, Bei Liu, Ruihua Song, Limin Wang, Jianlong Fu
 
-[WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/abs/2103.06561), Wenlan Team of Wudao, BAAI.
+- [WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/abs/2103.06561), Wenlan Team of Wudao, BAAI.
 
 # 📝 Selected Publications 
 
