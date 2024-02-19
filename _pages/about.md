@@ -55,10 +55,10 @@ Chuhao Jin is currently a first-year PhD student from Gaoling School of Artifici
 **Chuhao Jin**, Hongteng Xu, Ruihua Song and Zhiwu Lu
 
 # 🛠️ Open Source Project
-- Author of [Text2Poster](https://github.com/chuhaojin/Text2Poster-ICASSP-22), a framework for automatically generating posters based on text.
-- Author of [BriVL-BUA-applications](https://github.com/chuhaojin/BriVL-BUA-applications), a project of Using the BriVL model for Chinese image and text retrieval.
-- Author of [LSTMForSentAnalysis](https://github.com/chuhaojin/LSTMForSentAnalysis), a tiny tutorial of how to use LSTM for text classification.
-- Contributed code to [BAAI-WuDao/BriVL](https://github.com/BAAI-WuDao/BriVL).
+- Author of [Text2Poster ![](https://img.shields.io/github/stars/chuhaojin/Text2Poster-ICASSP-22?style=social)](https://github.com/chuhaojin/Text2Poster-ICASSP-22), a framework for automatically generating posters based on text.
+- Author of [BriVL-BUA-applications ![](https://img.shields.io/github/stars/chuhaojin/BriVL-BUA-applications?style=social)](https://github.com/chuhaojin/BriVL-BUA-applications), a project of Using the BriVL model for Chinese image and text retrieval.
+- Author of [LSTMForSentAnalysis ![](https://img.shields.io/github/stars/chuhaojin/LSTMForSentAnalysis?style=social)](https://github.com/chuhaojin/LSTMForSentAnalysis), a tiny tutorial of how to use LSTM for text classification.
+- Contributed code to [BAAI-WuDao/BriVL ![](https://img.shields.io/github/stars/BAAI-WuDao/BriVL?style=social)](https://github.com/BAAI-WuDao/BriVL).
 
 # 📖 Educations
 - *2023.09 - Now*, Ph.D student, Gaoling school of Artificial Intelligence (GSAI), Renmin University of China, Beijing. 
