@@ -54,8 +54,8 @@ Chuhao Jin is currently a first-year PhD student from Gaoling School of Artifici
 **Chuhao Jin**, Hongteng Xu, Ruihua Song and Zhiwu Lu
 
 # 📖 Educations
-- *2023.09 - Now*, Ph.D student, Gaoling school of Artificial Intelligence, Renmin University of China, Artificial Intelligence. 
-- *2020.09 - 2023.06*, Master, Gaoling school of Artificial Intelligence, Renmin University of China (GSAI), Artificial Intelligence. 
+- *2023.09 - Now*, Ph.D student, Gaoling school of Artificial Intelligence (GSAI), Renmin University of China, Beijing. 
+- *2020.09 - 2023.06*, Master, Gaoling school of Artificial Intelligence (GSAI), Renmin University of China, Beijing. 
 - *2016.09 - 2020.06*, Undergraduate, School of Computer Science and Technology, Harbin Institute of Technology, Weihai. 
 
 
