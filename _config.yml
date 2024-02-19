@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chuhao JIn（金楚浩）"
-description              : "A PhD student from GSAI, RUC. Focusing on persuasive dialogue systems and multimodal generation."
+description              : "PhD student from GSAI, RUC."
 repository               : "chuhaojin/jch.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chuhao JIn（金楚浩）"
   avatar           : "images/medium.jpg"
-  bio              : "A PhD student from GSAI, RUC. Focusing on persuasive dialogue systems and multimodal generation."
+  bio              : "Focusing on persuasive dialogue systems and multimodal generation."
   location         : "Beijing, China"
   employer         :
   pubmed           : 

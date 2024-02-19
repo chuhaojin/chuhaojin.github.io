@@ -22,7 +22,7 @@ Chuhao Jin is currently a first-year PhD student from Gaoling School of Artifici
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Got my Master's degree from GSAI, RUC. 
+- *2023.06*: &nbsp;🎉🎉 Get my Master's degree from GSAI, RUC. 
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
