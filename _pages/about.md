@@ -21,9 +21,12 @@ Chuhao Jin is currently a first-year PhD student from Gaoling School of Artifici
  <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>130+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-<!-- # 🔥 News -->
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Got my Master's degree from GSAI, RUC. 
+
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-# Pre Print
+
+# Pre-Print
 [Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots](https://arxiv.org/abs/2306.05716) Jiange Yang, Wenhui Tan, **Chuhao Jin**, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang
 
 [AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation](https://arxiv.org/abs/2305.18898) **Chuhao Jin**, Wenhui Tan, Jiange Yang, Bei Liu, Ruihua Song, Limin Wang, Jianlong Fu

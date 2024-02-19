@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chuhao JIn（金楚浩）"
-description              : "Chuhao Jin is a first-year PhD student from Renmin University of China. His research interests include persuasive dialogue systems and multimodal generation."
+description              : "A PhD student from GSAI, RUC. Focusing on persuasive dialogue systems and multimodal generation."
 repository               : "chuhaojin/jch.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chuhao JIn（金楚浩）"
   avatar           : "images/medium.jpg"
-  bio              : "Chuhao Jin is a first-year PhD student from Renmin University of China. His research interests include persuasive dialogue systems and multimodal generation."
+  bio              : "A PhD student from GSAI, RUC. Focusing on persuasive dialogue systems and multimodal generation."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : github chuhaojin # e.g., "github username"
+  github           : chuhaojin # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
