@@ -27,7 +27,7 @@ Chuhao Jin is currently a first-year PhD student from Gaoling School of Artifici
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 🖨️ Pre-Print
+# 🖨️ Pre-Prints
 - [Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots](https://arxiv.org/abs/2306.05716), \*Jiange Yang, \*Wenhui Tan, **\*Chuhao Jin**, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang
 
 - [AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation](https://arxiv.org/abs/2305.18898), **\*Chuhao Jin**, \*Wenhui Tan, \*Jiange Yang, Bei Liu, Ruihua Song, Limin Wang, Jianlong Fu
@@ -54,15 +54,15 @@ Chuhao Jin is currently a first-year PhD student from Gaoling School of Artifici
 - [Text2Poster: Laying out Stylized Texts on Retrieved Images](https://ieeexplore.ieee.org/abstract/document/9747465), ICASSP 2022.
 **Chuhao Jin**, Hongteng Xu, Ruihua Song and Zhiwu Lu
 
-# 🛠️ Open Source Project
+# 🛠️ Open Source Projects
 - Author of [Text2Poster ![](https://img.shields.io/github/stars/chuhaojin/Text2Poster-ICASSP-22?style=social)](https://github.com/chuhaojin/Text2Poster-ICASSP-22), a framework for automatically generating posters based on text.
 - Author of [BriVL-BUA-applications ![](https://img.shields.io/github/stars/chuhaojin/BriVL-BUA-applications?style=social)](https://github.com/chuhaojin/BriVL-BUA-applications), a project of Using the BriVL model for Chinese image and text retrieval.
 - Author of [LSTMForSentAnalysis ![](https://img.shields.io/github/stars/chuhaojin/LSTMForSentAnalysis?style=social)](https://github.com/chuhaojin/LSTMForSentAnalysis), a tiny tutorial of how to use LSTM for text classification.
 - Contributed code to [BAAI-WuDao/BriVL ![](https://img.shields.io/github/stars/BAAI-WuDao/BriVL?style=social)](https://github.com/BAAI-WuDao/BriVL).
 
 # 📖 Educations
-- *2023.09 - Now*, Ph.D student, Gaoling school of Artificial Intelligence (GSAI), Renmin University of China, Beijing. 
-- *2020.09 - 2023.06*, Master, Gaoling school of Artificial Intelligence (GSAI), Renmin University of China, Beijing. 
+- *2023.09 - Now*, Ph.D student, Gaoling School of Artificial Intelligence (GSAI), Renmin University of China, Beijing. 
+- *2020.09 - 2023.06*, Master, Gaoling School of Artificial Intelligence (GSAI), Renmin University of China, Beijing. 
 - *2016.09 - 2020.06*, Undergraduate, School of Computer Science and Technology, Harbin Institute of Technology, Weihai. 
 
 
