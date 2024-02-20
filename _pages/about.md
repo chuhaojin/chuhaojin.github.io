@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Chuhao Jin is currently a first-year PhD student from Gaoling School of Artificial Intelligence, Renmin University of China (RUC GSAI). His advisor is Prof. Ruihua Song. His research interests include persuasive dialogue systems and multimodal generation.
+Chuhao Jin is currently a first-year Ph.D. student from Gaoling School of Artificial Intelligence, Renmin University of China (RUC GSAI). His advisor is Prof. Ruihua Song. His research interests include persuasive dialogue systems and multimodal generation.
 
  <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>130+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
