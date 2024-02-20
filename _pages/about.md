@@ -27,13 +27,6 @@ Chuhao Jin is currently a first-year Ph.D. student from Gaoling School of Artifi
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 🖨️ Pre-Prints
-- [Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots](https://arxiv.org/abs/2306.05716), \*Jiange Yang, \*Wenhui Tan, **\*Chuhao Jin**, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang
-
-- [AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation](https://arxiv.org/abs/2305.18898), **\*Chuhao Jin**, \*Wenhui Tan, \*Jiange Yang, Bei Liu, Ruihua Song, Limin Wang, Jianlong Fu
-
-- [WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/abs/2103.06561), Wenlan Team of Wudao, BAAI
-
 # 📝 Selected Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -53,6 +46,13 @@ Chuhao Jin is currently a first-year Ph.D. student from Gaoling School of Artifi
 
 - [Text2Poster: Laying out Stylized Texts on Retrieved Images](https://ieeexplore.ieee.org/abstract/document/9747465), ICASSP 2022.
 **Chuhao Jin**, Hongteng Xu, Ruihua Song and Zhiwu Lu
+
+# 🖨️ Pre-Prints
+- [Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots](https://arxiv.org/abs/2306.05716), \*Jiange Yang, \*Wenhui Tan, **\*Chuhao Jin**, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang
+
+- [AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation](https://arxiv.org/abs/2305.18898), **\*Chuhao Jin**, \*Wenhui Tan, \*Jiange Yang, Bei Liu, Ruihua Song, Limin Wang, Jianlong Fu
+
+- [WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/abs/2103.06561), Wenlan Team of Wudao, BAAI
 
 # 🛠️ Open Source Projects
 - Author of [Text2Poster ![](https://img.shields.io/github/stars/chuhaojin/Text2Poster-ICASSP-22?style=social)](https://github.com/chuhaojin/Text2Poster-ICASSP-22), a framework for automatically generating posters based on text.
