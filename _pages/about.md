@@ -50,6 +50,9 @@ Chuhao Jin is currently a first-year Ph.D. student from Gaoling School of Artifi
 - [Text2Poster: Laying out Stylized Texts on Retrieved Images](https://ieeexplore.ieee.org/abstract/document/9747465), ICASSP 2022.
 **Chuhao Jin**, Hongteng Xu, Ruihua Song and Zhiwu Lu
 
+- [Space Roaming and Imagination Production: Mediating Construction of Internet-celebrity Cities in Online Pictures](https://kns.cnki.net/kcms2/article/abstract?v=VKFFl0Cm57amW7MPsqxJldApBofJsc0xB8JUhbJBk9WAQ1ZtP0iU9k1LWM_96wMYcYoHwJ6Jr7zYkSCleoxE4IHCz5g6R9gP4o7sfAunRLmOG7bFP8ir1SoB-xhsX6_lpV6t14JhWyo=&uniplatform=NZKPT&flag=copy), Journalism & Communication, 2023,30(05).
+Shengjun Jin, Jiangmei Li, Yuhao Li , **Chuhao Jin** (Corresponding Author)
+
 # 🖨️ Pre-Prints
 - [Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots](https://arxiv.org/abs/2306.05716), \*Jiange Yang, \*Wenhui Tan, **\*Chuhao Jin**, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang
 
