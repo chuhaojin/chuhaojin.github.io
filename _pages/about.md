@@ -41,7 +41,7 @@ Chuhao Jin is currently a first-year Ph.D. student from Gaoling School of Artifi
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- <span style="color:red">(best paper nomination)</span>[Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model](./), ACL 2024.
+- Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model<span style="color:red">(No pre-print yet)</span>, ACL 2024.
 **\*Chuhao Jin**, \*Kening Ren, Lingzhen Kong, Xiting Wang, Ruihua Song, Huan Chen 
 
 - [Joint Semantic and Strategy Matching for Persuasive Dialogue](https://aclanthology.org/2023.findings-emnlp.276/), EMNLP findings 2023.
