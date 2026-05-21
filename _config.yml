@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chuhao JIn（金楚浩）"
-description              : "Focusing on persuasive dialogue systems and multimodal generation."
-repository               : "chuhaojin/jch.github.io"
+title                    : "Chuhao Jin（金楚浩）"
+description              : "Interactive Digital Humans, Expressive Interaction, and Multimodal Generation."
+repository               : "chuhaojin/chuhaojin.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chuhao JIn（金楚浩）"
+  name             : "Chuhao Jin（金楚浩）"
   avatar           : "images/medium.jpg"
-  bio              : "Ph.D student from RUC."
+  bio              : "Ph.D. student at RUC GSAI."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
