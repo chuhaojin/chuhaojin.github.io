@@ -38,24 +38,58 @@ He is especially interested in building AI characters that can not only talk, bu
 
 # 📝 Selected Publications 
 
-- [SentiAvatar: Towards Expressive and Interactive Digital Humans](https://arxiv.org/abs/2604.02908), 2026. [[Project](https://sentiavatar.github.io/)] [[Code](https://github.com/SentiAvatar/SentiAvatar)]
-**Chuhao Jin**, Rui Zhang, Qingzhe Gao, Haoyu Shi, Dayu Wu, Yichen Jiang, Yihan Wu, Ruihua Song<br>
+<div class='paper-box'>
+  <div class='paper-box-image'><img src='images/publications/sentiavatar-teaser.png' alt='SentiAvatar teaser'></div>
+  <div class='paper-box-text' markdown="1">
+[SentiAvatar: Towards Expressive and Interactive Digital Humans](https://arxiv.org/abs/2604.02908), 2026. [[Project](https://sentiavatar.github.io/)] [[Code](https://github.com/SentiAvatar/SentiAvatar)]
+
+**Chuhao Jin**, Rui Zhang, Qingzhe Gao, Haoyu Shi, Dayu Wu, Yichen Jiang, Yihan Wu, Ruihua Song
+
 An expressive 3D digital human framework with speech, facial expression, and body motion generation for real-time interaction.
+  </div>
+</div>
 
-- PyraMotion: Coarse-to-Fine Full-Body Motion Generation with Body-Hand Coherence, ICME 2026.
-**\*Chuhao Jin**, \*Rui Zhang, Haosen Li, Ruihua Song<br>
+<div class='paper-box'>
+  <div class='paper-box-image'><img src='images/publications/pyramotion-teaser.png' alt='PyraMotion teaser'></div>
+  <div class='paper-box-text' markdown="1">
+PyraMotion: Coarse-to-Fine Full-Body Motion Generation with Body-Hand Coherence, ICME 2026.
+
+**\*Chuhao Jin**, \*Rui Zhang, Haosen Li, Ruihua Song
+
 An accepted ICME 2026 paper on coarse-to-fine full-body motion generation with improved body-hand coherence.
+  </div>
+</div>
 
-- [PlanMoGPT: Flow-Enhanced Progressive Planning for Text to Motion Synthesis](https://arxiv.org/abs/2506.17912), 2025.
-**Chuhao Jin**, Haosen Li, Bingzi Zhang, Che Liu, Xiting Wang, Ruihua Song, Wenbing Huang, Ying Qin, Fuzheng Zhang, Di Zhang<br>
+<div class='paper-box'>
+  <div class='paper-box-image'><img src='images/publications/planmogpt-teaser.png' alt='PlanMoGPT teaser'></div>
+  <div class='paper-box-text' markdown="1">
+[PlanMoGPT: Flow-Enhanced Progressive Planning for Text to Motion Synthesis](https://arxiv.org/abs/2506.17912), 2025.
+
+**Chuhao Jin**, Haosen Li, Bingzi Zhang, Che Liu, Xiting Wang, Ruihua Song, Wenbing Huang, Ying Qin, Fuzheng Zhang, Di Zhang
+
 A progressive planning framework for text-to-motion synthesis with flow-enhanced motion tokenization.
+  </div>
+</div>
 
-- <span style="color:red">(Nominated by Area Chair for Best Paper)</span> [Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model](https://aclanthology.org/2024.acl-long.92/), ACL 2024.
-**\*Chuhao Jin**, \*Kening Ren, Lingzhen Kong, Xiting Wang, Ruihua Song, Huan Chen<br>
+<div class='paper-box'>
+  <div class='paper-box-image'><img src='images/publications/persuadegpt-teaser.png' alt='PersuadeGPT teaser'></div>
+  <div class='paper-box-text' markdown="1">
+<span style="color:red">(Nominated by Area Chair for Best Paper)</span> [Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model](https://aclanthology.org/2024.acl-long.92/), ACL 2024.
+
+**\*Chuhao Jin**, \*Kening Ren, Lingzhen Kong, Xiting Wang, Ruihua Song, Huan Chen
+
 A cross-domain persuasion dataset and large language model for persuasive dialogue.
+  </div>
+</div>
 
-- [Joint Semantic and Strategy Matching for Persuasive Dialogue](https://aclanthology.org/2023.findings-emnlp.276/), EMNLP findings 2023.
+<div class='paper-box'>
+  <div class='paper-box-image'><img src='images/publications/jsm-teaser.png' alt='Joint semantic and strategy matching framework'></div>
+  <div class='paper-box-text' markdown="1">
+[Joint Semantic and Strategy Matching for Persuasive Dialogue](https://aclanthology.org/2023.findings-emnlp.276/), EMNLP findings 2023.
+
 **Chuhao Jin**, Yutao Zhu, Lingzhen Kong, Shijie Li, Xiao Zhang, Ruihua Song, Xu Chen, Huan Chen, Yuchong Sun, Yu Chen, Jun Xu
+  </div>
+</div>
 
 - [Space Roaming and Imagination Production: Mediating Construction of Internet-celebrity Cities in Online Pictures](https://kns.cnki.net/kcms2/article/abstract?v=VKFFl0Cm57amW7MPsqxJldApBofJsc0xB8JUhbJBk9WAQ1ZtP0iU9k1LWM_96wMYcYoHwJ6Jr7zYkSCleoxE4IHCz5g6R9gP4o7sfAunRLmOG7bFP8ir1SoB-xhsX6_lpV6t14JhWyo=&uniplatform=NZKPT&flag=copy), Journalism & Communication, 2023.30(05).
 Shengjun Jin, Jiangmei Li, Yuhao Li , **Chuhao Jin (Corresponding Author)**
