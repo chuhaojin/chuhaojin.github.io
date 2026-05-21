@@ -35,7 +35,7 @@ Chuhao Jin is currently a third-year Ph.D. student at the Gaoling School of Arti
 
 # 📝 Selected Publications 
 
-- PyraMotion: Coarse-to-Fine Full-Body Motion Generation with Body-Hand Coherence, ICME 2026.
+- [PyraMotion: Coarse-to-Fine Full-Body Motion Generation with Body-Hand Coherence](none), ICME 2026.
 **\*Chuhao Jin**, \*Rui Zhang, Haosen Li, Ruihua Song
 
 - <span style="color:red">(Nominated by Area Chair for Best Paper)</span> [Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model](https://aclanthology.org/2024.acl-long.92/), ACL 2024.
