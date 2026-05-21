@@ -16,13 +16,32 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Chuhao Jin is a third-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China (RUC GSAI), advised by Prof. Ruihua Song. His research centers on **Interactive Digital Humans** and **Expressive Interaction**, spanning persuasive dialogue, full-body motion generation, multimodal interaction, and embodied AI agents.
+Chuhao Jin is a Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China (RUC GSAI), advised by Prof. Ruihua Song. His research centers on **Interactive Digital Humans** and **Expressive Interaction**, spanning persuasive dialogue, full-body motion generation, multimodal interaction, and embodied AI agents.
 
-He is especially interested in building AI characters that can not only talk, but also move, express, persuade, and interact with people in emotionally and socially meaningful ways. Recently, he has been working on expressive 3D digital humans, text-to-motion generation, and agentic AI products.
+**I build expressive digital humans that can talk, move, emote, and interact in real time.** My recent work focuses on expressive 3D avatars, text-to-motion generation, multimodal agents, and AI characters that can communicate with people in emotionally and socially meaningful ways.
 
-**Research Interests:** Interactive Digital Humans · Expressive Interaction · Persuasive Dialogue · Motion Generation · Multimodal Agents
+Beyond academic research, I have worked on agentic AI products and interactive digital human systems from prototype to open-source release, with experience in both large-model research teams and early-stage startup environments.
+
+**Research Interests:** Interactive Digital Humans · Expressive Interaction · Multimodal Agents · Motion Generation · Persuasive Dialogue
 
  <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>130+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+
+
+# 💻 Experience
+- *2025.03 - 2026.05*, Co-founder and CTO, SentiPulse (思维光谱), China. Built emotionally expressive AI agents and interactive digital human products; led the development and open-source release of SentiAvatar.
+- *2024.05 - 2025.02*, Large Model Algorithm Intern, Kuaishou, KwaiYii Large Model Research Center (快意大模型研究中心), China.
+- *2023.03 - 2023.09*, Research Intern, Microsoft Research Asia (MSRA), China.
+- *2021.09 - 2023.01*, Research Intern, Meituan, China.
+- *2020.12 - 2021.09*, Research Intern, Beijing Academy of Artificial Intelligence (BAAI), China.
+
+
+# 🛠️ Open Source & Products
+- Lead author of [SentiAvatar ![](https://img.shields.io/github/stars/SentiAvatar/SentiAvatar?style=social)](https://github.com/SentiAvatar/SentiAvatar), an expressive and interactive 3D digital human framework with synchronized speech, motion, and facial expressions.
+- Former Co-founder and CTO of SentiPulse (思维光谱), where I worked on emotionally expressive AI agents and interactive digital human products.
+- Author of [Text2Poster ![](https://img.shields.io/github/stars/chuhaojin/Text2Poster-ICASSP-22?style=social)](https://github.com/chuhaojin/Text2Poster-ICASSP-22), a framework for automatically generating posters based on text.
+- Author of [BriVL-BUA-applications ![](https://img.shields.io/github/stars/chuhaojin/BriVL-BUA-applications?style=social)](https://github.com/chuhaojin/BriVL-BUA-applications), a project of using the BriVL model for Chinese image-text retrieval.
+- Author of [LSTMForSentAnalysis ![](https://img.shields.io/github/stars/chuhaojin/LSTMForSentAnalysis?style=social)](https://github.com/chuhaojin/LSTMForSentAnalysis), a tiny tutorial on LSTM-based text classification.
+- Contributed code to [BAAI-WuDao/BriVL ![](https://img.shields.io/github/stars/BAAI-WuDao/BriVL?style=social)](https://github.com/BAAI-WuDao/BriVL).
 
 
 # 🔥 News
@@ -108,23 +127,7 @@ Shengjun Jin, Jiangmei Li, Yuhao Li , **Chuhao Jin (Corresponding Author)**
 
 - [WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/abs/2103.06561), Wenlan Team of Wudao, BAAI
 
-# 🛠️ Open Source & Products
-- Lead author of [SentiAvatar ![](https://img.shields.io/github/stars/SentiAvatar/SentiAvatar?style=social)](https://github.com/SentiAvatar/SentiAvatar), an expressive and interactive 3D digital human framework with synchronized speech, motion, and facial expressions.
-- Co-founder and CTO of SentiPulse (思维光谱), building emotionally expressive AI agents and interactive digital human products.
-- Author of [Text2Poster ![](https://img.shields.io/github/stars/chuhaojin/Text2Poster-ICASSP-22?style=social)](https://github.com/chuhaojin/Text2Poster-ICASSP-22), a framework for automatically generating posters based on text.
-- Author of [BriVL-BUA-applications ![](https://img.shields.io/github/stars/chuhaojin/BriVL-BUA-applications?style=social)](https://github.com/chuhaojin/BriVL-BUA-applications), a project of Using the BriVL model for Chinese image and text retrieval.
-- Author of [LSTMForSentAnalysis ![](https://img.shields.io/github/stars/chuhaojin/LSTMForSentAnalysis?style=social)](https://github.com/chuhaojin/LSTMForSentAnalysis), a tiny tutorial of how to use LSTM for text classification.
-- Contributed code to [BAAI-WuDao/BriVL ![](https://img.shields.io/github/stars/BAAI-WuDao/BriVL?style=social)](https://github.com/BAAI-WuDao/BriVL).
-
 # 📖 Education
 - *2023.09 - Now*, Ph.D. Student, Gaoling School of Artificial Intelligence (GSAI), Renmin University of China, Beijing.
 - *2020.09 - 2023.06*, Master's Student, Gaoling School of Artificial Intelligence (GSAI), Renmin University of China, Beijing.
 - *2016.09 - 2020.06*, Undergraduate Student, School of Computer Science and Technology, Harbin Institute of Technology, Weihai.
-
-
-# 💻 Experience
-- *2025.03 - 2026.05*, Co-founder and CTO, SentiPulse (思维光谱), China.
-- *2024.05 - 2025.02*, Large Model Algorithm Intern, Kuaishou, KwaiYii Large Model Research Center (快意大模型研究中心), China.
-- *2023.03 - 2023.09*, Research Intern, Microsoft Research Asia (MSRA), China.
-- *2021.09 - 2023.01*, Research Intern, Meituan, China.
-- *2020.12 - 2021.09*, Research Intern, Beijing Academy of Artificial Intelligence (BAAI), China.
