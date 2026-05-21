@@ -56,7 +56,7 @@ PyraMotion: Coarse-to-Fine Full-Body Motion Generation with Body-Hand Coherence,
 
 **\*Chuhao Jin**, \*Rui Zhang, Haosen Li, Ruihua Song
 
-An accepted ICME 2026 paper on coarse-to-fine full-body motion generation with improved body-hand coherence.
+A coarse-to-fine framework for full-body motion generation with improved body-hand coherence.
   </div>
 </div>
 
