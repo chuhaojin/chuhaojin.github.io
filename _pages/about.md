@@ -28,7 +28,7 @@ Beyond academic research, I have worked on agentic AI products and interactive d
 
 
 # 💻 Experience
-- *2025.03 - 2026.05*, Co-founder and CTO, SentiPulse (思维光谱), China. Built emotionally expressive AI agents and interactive digital human products; led the development and open-source release of SentiAvatar.
+- *2025.03 - 2026.04*, Co-founder and CTO, SentiPulse (思维光谱), China. Built emotionally expressive AI agents and interactive digital human products; led the development and open-source release of SentiAvatar.
 - *2024.05 - 2025.02*, Large Model Algorithm Intern, Kuaishou, KwaiYii Large Model Research Center (快意大模型研究中心), China.
 - *2023.03 - 2023.09*, Research Intern, Microsoft Research Asia (MSRA), China.
 - *2021.09 - 2023.01*, Research Intern, Meituan, China.
